@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "个人照片.jpg"
   name             : "Hao Luo (罗浩)"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer, Wujinlian School of Economics"
   location         : "Earth"
   employer         : "Changzhou University"
-  uri              : # URL
+  uri              : https://haoluo1995.github.io
   email            : "haoluo@cczu.edu.cn" 
 
   # Academic websites
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
