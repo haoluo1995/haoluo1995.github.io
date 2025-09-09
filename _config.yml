@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Hao Luo/Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://haoluo1995.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Hao Luo (罗浩)"
+description              : &description "Lecturer, Wujinlian School of Economics"
+url                      : https://haoluo1995.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haoluo1995/haoluo1995.github.io"
 
