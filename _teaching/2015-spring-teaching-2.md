@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "International Settlement（国际结算）"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Undergraduate Course"
+permalink: #/teaching/2015-spring-teaching-1
+venue: "2025 Spring"
 date: 2015-01-01
 location: "City, Country"
 ---
