@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Lecturer from [Wujinlian School of Economics](https://jjxy.cczu.edu.cn/) at [Changzhou University](https://www.cczu.edu.cn/main.htm).  
+Dr. Hao Luo is a Lecturer from [Wujinlian School of Economics](https://jjxy.cczu.edu.cn/) at [Changzhou University](https://www.cczu.edu.cn/main.htm). Dr. Luo earned his Ph.D.(2023) in [Sustainability Engineering and Environmental Engineering](https://engineering.purdue.edu/SEE) from Purdue University in 2023, advised my [Prof. Hua Cai](https://engineering.purdue.edu/SEE/People/ptProfile?resource_id=126285). He also hold a Master of Science in Environmental and Ecological Engineering from Purdue in 2019, co-advised by [Prof. Hua Cai](https://engineering.purdue.edu/SEE/People/ptProfile?resource_id=126285) and [Prof. Fu Zhao](https://engineering.purdue.edu/SEE/People/ptProfile?resource_id=29424). Before that, Dr. Luo graduated from [Hohai University](https://www.hhu.edu.cn/) in 2017 with a Bachelor degree majored in [Environmental Envinggering](https://hjxy.hhu.edu.cn/).
+
 You can find my CV here: [Dr. Luo's CV](../assets/CV.pdf); [罗浩的简历](../assets/CV_Chinese.pdf).
+
+My research 
 
 Y
 A data-driven personal website
