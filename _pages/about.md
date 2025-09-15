@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Lecturer from Wujinlian School of Economics (https://jjxy.cczu.edu.cn/), Changzhou University (https://www.cczu.edu.cn/main.htm).  
+I'm a Lecturer from [Wujinlian School of Economics](https://jjxy.cczu.edu.cn/) at [Changzhou University](https://www.cczu.edu.cn/main.htm).  
 You can find my CV here: [Dr. Luo's CV](../assets/CV.pdf); [罗浩的简历](../assets/CV_Chinese.pdf).
 
 Y
