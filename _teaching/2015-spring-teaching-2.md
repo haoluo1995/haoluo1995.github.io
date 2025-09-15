@@ -2,7 +2,7 @@
 title: "International Settlement（国际结算）"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2025-spring-teaching-2
+permalink: /teaching/2015-spring-teaching-1
 venue: "2025 Spring"
 date: 2025-03-01
 location: "Changzhou, China"
